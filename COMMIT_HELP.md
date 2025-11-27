@@ -1,5 +1,9 @@
 # What to Write for a Commit Message
-
+Created basic flask app 
+Added home.html, login.html,signup.html templates
+Added static data folder and imported IMDB CSV dataset into app.py
+Implemented CSV loading in app.py
+Implemented prototype movie_quizz
 **Stuck? Use this formula:**
 
 git commit -m "This is where you put the message"
